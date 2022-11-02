@@ -374,6 +374,7 @@ An Ethereum client is the software that allows Ethereum nodes to read the block 
 - [Chainstack](https://www.chainstack.com/) From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications.
 - [Infura](https://infura.io/) Suite of high availability APIs and Developer Tools that can provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next-generation software.
 - [Quicknode](https://www.quicknode.com/) Hosted Blockchain Infrastructure as a Service.
+- [GetBlock](https://getblock.io) Blockchain-as-a-Service platform that provides instant API access to full nodes from multiple blockchains.
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
